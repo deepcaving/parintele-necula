@@ -1,0 +1,180 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: widget
+  label: Widget
+  type: text
+  hidden: false
+  default: custom
+- name: active
+  label: Active
+  type: boolean
+  hidden: false
+  default: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: 100
+- name: interests
+  label: Interests
+  type: field_group
+  fields:
+  - name: interests
+    label: Interests
+    type: list
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: education
+  label: Education
+  type: field_group
+  fields:
+  - name: courses
+    label: Courses
+    type: field_group_list
+    fields:
+    - name: course
+      label: Course
+      type: text
+      hidden: false
+      default: ''
+    - name: institution
+      label: Institution
+      type: text
+      hidden: false
+      default: ''
+    - name: year
+      label: Year
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: header
+  label: Header
+  type: field_group
+  fields:
+  - name: overlay_color
+    label: Overlay color
+    type: text
+    hidden: false
+    default: ''
+  - name: overlay_img
+    label: Overlay img
+    type: file
+    hidden: false
+    default: ''
+  - name: overlay_filter
+    label: Overlay filter
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: cta
+  label: Cta
+  type: field_group
+  fields:
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  - name: label
+    label: Label
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: autolink
+  label: Autolink
+  type: boolean
+  hidden: false
+  default: ''
+- name: folder
+  label: Folder
+  type: text
+  hidden: false
+  default: ''
+- name: view
+  label: View
+  type: text
+  hidden: false
+  default: ''
+- name: filter_default
+  label: Filter default
+  type: text
+  hidden: false
+  default: ''
+- name: filter
+  label: Filter
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: tag
+    label: Tag
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: count
+  label: Count
+  type: text
+  hidden: false
+  default: ''
+- name: list_format
+  label: List format
+  type: text
+  hidden: false
+  default: ''
+- name: tags_include
+  label: Tags include
+  type: list
+  hidden: false
+  default: ''
+- name: tags_exclude
+  label: Tags exclude
+  type: list
+  hidden: false
+  default: ''
+- name: publication_type
+  label: Publication type
+  type: text
+  hidden: false
+  default: ''
+- name: exclude_selected
+  label: Exclude selected
+  type: boolean
+  hidden: false
+  default: ''
