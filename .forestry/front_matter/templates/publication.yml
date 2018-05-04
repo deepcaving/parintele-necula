@@ -1,0 +1,168 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: authors
+  label: Authors
+  type: list
+  hidden: false
+  default:
+  - ''
+- name: publication_types
+  label: Publication types
+  type: tag_list
+  hidden: false
+  default:
+  - '0'
+- name: publication
+  label: Publication
+  type: text
+  hidden: false
+  default: ''
+- name: publication_short
+  label: Publication short
+  type: text
+  hidden: false
+  default: ''
+- name: abstract
+  label: Abstract
+  type: textarea
+  hidden: false
+  default: ''
+- name: abstract_short
+  label: Abstract short
+  type: textarea
+  hidden: false
+  default: ''
+- name: image_preview
+  label: Image preview
+  type: text
+  hidden: false
+  default: ''
+- name: selected
+  label: Selected
+  type: boolean
+  hidden: false
+  default: false
+- name: projects
+  label: Projects
+  type: list
+  hidden: false
+  default: []
+- name: url_pdf
+  label: Url pdf
+  type: text
+  hidden: false
+  default: ''
+- name: url_preprint
+  label: Url preprint
+  type: text
+  hidden: false
+  default: ''
+- name: url_code
+  label: Url code
+  type: text
+  hidden: false
+  default: ''
+- name: url_dataset
+  label: Url dataset
+  type: text
+  hidden: false
+  default: ''
+- name: url_project
+  label: Url project
+  type: text
+  hidden: false
+  default: ''
+- name: url_slides
+  label: Url slides
+  type: text
+  hidden: false
+  default: ''
+- name: url_video
+  label: Url video
+  type: text
+  hidden: false
+  default: ''
+- name: url_poster
+  label: Url poster
+  type: text
+  hidden: false
+  default: ''
+- name: url_source
+  label: Url source
+  type: text
+  hidden: false
+  default: ''
+- name: math
+  label: Math
+  type: boolean
+  hidden: false
+  default: false
+- name: highlight
+  label: Highlight
+  type: boolean
+  hidden: false
+  default: true
+- name: header
+  label: Header
+  type: field_group
+  fields:
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: caption
+    label: Caption
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: 
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: url_custom
+  label: Url custom
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: url
+    label: Url
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
+- name: list_format
+  label: List format
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: false
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
