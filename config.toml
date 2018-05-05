@@ -48,7 +48,7 @@ home = ["HTML", "CSS", "RSS"]
 section = ["HTML", "RSS"]
 [params]
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-avatar = "/uploads/2018/05/04/portrait.jpg"
+avatar = "uploads/2018/05/04/portrait.jpg"
 color_theme = "default"
 comment_count = true
 custom_css = []
