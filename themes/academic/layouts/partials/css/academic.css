@@ -460,7 +460,7 @@ a[data-fancybox] img {
 }
 
 #profile .portrait {
-  background-image: url('../uploads/portrait.jpg');
+  background-image: url('~/uploads/portrait.jpg');
   width: 200px;
   height: 200px;
   margin: 0 auto;
