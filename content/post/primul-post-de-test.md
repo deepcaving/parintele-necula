@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2018-05-07T13:22:48+00:00"
-draft = true
 gallery_item = []
 highlight = false
 lastmod = ""
