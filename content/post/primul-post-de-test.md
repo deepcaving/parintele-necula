@@ -22,7 +22,7 @@ preview = true
 * Publicat de [Gheorghe Anghel](http://basilica.ro/author/gheorghe/)
 * 03.02.2018
 
-![](http://basilica.ro/wp-content/uploads/2018/02/2017_04_12_1_interviu-pr-constantin-necula-la-spovedanie-oamenii-vin-intr-un-loc-in-care-sa-si-atarne-mastile-de-un-cui-care-nu-tradeaza_19830.x71918.jpg =890x541)
+![](http://basilica.ro/wp-content/uploads/2018/02/2017_04_12_1_interviu-pr-constantin-necula-la-spovedanie-oamenii-vin-intr-un-loc-in-care-sa-si-atarne-mastile-de-un-cui-care-nu-tradeaza_19830.x71918.jpg)
 
 #### Într-un cuvânt postat pe [site-ul](http://www.ito2018.ro/ganduri-la-zile-de-toamna/) ITO2018, prefaţând evenimentul din toamnă când mii de tineri ortodocşi din întreaga lume se vor reuni la Sibiu, părintele profesor Constantin Necula vorbeşte despre tinereţe şi roadele ei, despre adevărata bucurie, Hristos, şi societatea românească actuală. „Tânărul cel dintâi chemat la întâlnire cu tinerii Ortodoxiei este El, Dumnezeul nostru Înviat”, spune părintele evidenţiind că „asta va face toată Bucuria posibilă!”.
 
