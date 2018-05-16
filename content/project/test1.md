@@ -21,4 +21,12 @@ external_link = "http://example.org"
 # Does the project detail page use math formatting?
 math = false
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
+
 +++
+
+Reteta mea de ciorba de fasole cu aripioare de pui are la baza reteta traditionala de ciorba ardeleneasca de fasole verde dar pentru a fi un pic mai sanatoasa am renuntat la faina si la ulei. Astfel am obtinut o ciorba usoara, hranitoare si racoritoare. 
+Reteta este destul de usor de facut chiar daca necesita un pic de timp pentru realizare. Partea buna este ca pentru a face aceasta reteta este de ajuns sa punem tot la fiert fara a necesita cunostinte vaste de bucatarie.
