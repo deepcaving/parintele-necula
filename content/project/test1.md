@@ -1,7 +1,7 @@
 +++
 date = "2016-04-27T00:00:00Z"
 external_link = "http://example.org"
-highlight = false
+highlight = true
 image_preview = "aYZ_xWMh_400x400.jpg"
 math = false
 summary = "summary."
