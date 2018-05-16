@@ -5,7 +5,7 @@ highlight = true
 image_preview = "aYZ_xWMh_400x400.jpg"
 math = false
 summary = "summary."
-tags = ["demo"]
+tags = []
 title = "test1"
 [header]
 caption = ""
