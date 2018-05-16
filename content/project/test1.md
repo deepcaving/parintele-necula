@@ -1,29 +1,24 @@
 +++
-date = "2018-05-16T11:28:18+00:00"
-external_link = ""
-highlight = true
-image_preview = "/img/uploads/2018/05/16/notion history.png"
-math = false
-summary = "summary"
-tags = []
+# Date this page was created.
+date = 2016-04-27T00:00:00
+
+# Project title.
 title = "test1"
-type = ""
-[header]
-caption = ""
-image = ""
+
+# Project summary to display on homepage.
+summary = "summary."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "aYZ_xWMh_400x400.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["demo"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "http://example.org"
+
+# Does the project detail page use math formatting?
+math = false
 
 +++
-some text  
-some text
-
-some text  
-some text
-
-some text  
-some text
-
-some text  
-some text
-
-some text  
-some text
