@@ -1,6 +1,6 @@
 +++
 date = "2018-05-27T00:00:00Z"
-external_link = "project/test1"
+external_link = ""
 highlight = false
 image_preview = "aYZ_xWMh_400x400.jpg"
 math = false
