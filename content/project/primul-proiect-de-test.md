@@ -2,7 +2,7 @@
 date = "2018-05-07T13:33:20+00:00"
 external_link = ""
 highlight = true
-image_preview = "/img/img/uploads/2018/05/07/aYZ_xWMh_400x400.jpg"
+image_preview = "img/img/uploads/2018/05/07/aYZ_xWMh_400x400.jpg"
 math = false
 summary = ""
 tags = []
