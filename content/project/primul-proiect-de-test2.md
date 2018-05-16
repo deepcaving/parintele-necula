@@ -1,7 +1,7 @@
 +++
 date = "2018-05-16T11:00:34+00:00"
 external_link = ""
-highlight = true
+highlight = false
 image_preview = "/img/aYZ_xWMh_400x400.jpg"
 math = false
 summary = ""
