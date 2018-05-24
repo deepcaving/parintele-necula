@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
 preserveTaxonomyNames = true
 theme = "academic"
-title = "Academic"
+title = "Parintele Necula"
 [Languages.en]
 languageCode = "en-us"
 [blackfriday]
@@ -22,25 +22,29 @@ smartypants = true
 [[menu.main]]
 name = "Contact"
 url = "#contact"
+weight = 7
+[[menu.main]]
+name = "Cursuri"
+url = "#teaching"
 weight = 6
 [[menu.main]]
-name = "Teaching"
-url = "#teaching"
+name = "Proiecte"
+url = "#projects"
 weight = 5
 [[menu.main]]
-name = "Projects"
-url = "#projects"
+name = "Conferințe"
+url = "#conferences"
 weight = 4
 [[menu.main]]
-name = "Posts"
-url = "#posts"
+name = "Publicaţii"
+url = "#publications_selected"
 weight = 3
 [[menu.main]]
-name = "Publications"
-url = "#publications_selected"
+name = "Postări"
+url = "#posts"
 weight = 2
 [[menu.main]]
-name = "Home"
+name = "Acasă"
 url = "#about"
 weight = 1
 [outputs]
